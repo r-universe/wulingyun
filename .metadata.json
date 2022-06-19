@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Corbi",
+    "oncran": true
+  },
+  {
+    "package": "CRF",
+    "oncran": true
+  }
+]

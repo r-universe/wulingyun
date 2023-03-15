@@ -1,10 +1,10 @@
 [
   {
-    "package": "Corbi",
+    "package": "CRF",
     "oncran": true
   },
   {
-    "package": "CRF",
+    "package": "Corbi",
     "oncran": true
   }
 ]

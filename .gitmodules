@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Corbi"]
-	path = Corbi
-	url = https://github.com/wulingyun/corbi
 [submodule "CRF"]
 	path = CRF
 	url = https://github.com/wulingyun/crf
+[submodule "Corbi"]
+	path = Corbi
+	url = https://github.com/wulingyun/corbi
